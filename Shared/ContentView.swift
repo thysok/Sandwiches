@@ -24,7 +24,6 @@ struct ContentView: View {
                         .foregroundColor(.secondary)
                     
                     Spacer()
-                    
                 }
             }
             
