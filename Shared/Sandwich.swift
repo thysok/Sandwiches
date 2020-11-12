@@ -23,4 +23,5 @@ let testData = [
     Sandwich(name: "Banh Mi", ingredientCount: 2, isSpicy: false),
     Sandwich(name: "Gua Bao", ingredientCount: 1, isSpicy: true),
     Sandwich(name: "Blah Blah", ingredientCount: 7, isSpicy: true),
+    Sandwich(name: "Super Banh Mi", ingredientCount: 10, isSpicy: true),
 ]
